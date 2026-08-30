@@ -1,0 +1,7 @@
+latitude_band,adjusted_decay_peak_amplitude_correlation,adjusted_decay_rise_amplitude_correlation
+0--15 degrees N,0.872168,-0.665562
+15--30 degrees N,0.967634,0.931431
+30--45 degrees N,0.948430,0.862194
+0--15 degrees S,0.950044,0.963584
+15--30 degrees S,0.849548,0.976907
+30--45 degrees S,0.995881,0.913477

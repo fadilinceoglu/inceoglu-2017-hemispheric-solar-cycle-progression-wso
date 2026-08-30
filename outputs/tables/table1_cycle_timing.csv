@@ -1,0 +1,7 @@
+latitude_band,cycle_21_minimum_decimal_year,cycle_21_maximum_decimal_year,cycle_21_length_years,cycle_22_minimum_decimal_year,cycle_22_maximum_decimal_year,cycle_22_length_years,cycle_23_minimum_decimal_year,cycle_23_maximum_decimal_year,cycle_23_length_years,cycle_24_minimum_decimal_year,cycle_24_maximum_decimal_year
+0--15 degrees N,1976.9,1981.3,10.4,1987.3,1991.0,9.3,1996.6,2002.0,12.5,2009.0,2015.4
+15--30 degrees N,1976.4,1979.4,9.3,1985.7,1989.3,10.7,1996.4,1999.5,11.6,2008.0,2011.8
+30--45 degrees N,1976.4,1978.7,9.6,1986.0,1989.3,9.6,1995.5,1999.3,12.5,2008.0,2011.7
+0--15 degrees S,1977.1,1981.6,9.6,1986.7,1991.5,10.9,1997.6,2002.0,11.8,2009.4,2014.8
+15--30 degrees S,1976.4,1980.5,10.0,1986.4,1991.3,9.7,1996.1,2001.9,12.8,2009.0,2014.9
+30--45 degrees S,1976.5,1980.5,9.9,1986.4,1989.2,9.8,1996.2,1999.6,12.7,2008.9,2012.7

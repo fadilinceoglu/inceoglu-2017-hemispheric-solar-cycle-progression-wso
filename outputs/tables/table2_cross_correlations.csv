@@ -1,0 +1,5 @@
+reference_latitude_band,comparison_latitude_band,normalized_cross_correlation,lag_carrington_rotations
+0--15 degrees N,15--30 degrees N,0.860515,10
+0--15 degrees N,30--45 degrees N,0.770118,22
+0--15 degrees S,15--30 degrees S,0.834340,6
+0--15 degrees S,30--45 degrees S,0.789488,19

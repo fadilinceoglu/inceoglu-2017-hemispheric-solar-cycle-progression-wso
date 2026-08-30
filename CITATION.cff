@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Please cite both this reproduction and the original Astronomy & Astrophysics article."
+title: "Reproduction of Inceoglu et al. (2017): hemispheric solar-cycle progression from WSO data"
+type: software
+authors:
+  - family-names: Inceoglu
+    given-names: Fadil
+version: 0.1.0
+date-released: 2026-08-30
+license: MIT
+repository-code: "https://github.com/fadilinceoglu/inceoglu-2017-hemispheric-solar-cycle-progression-wso"
+preferred-citation:
+  type: article
+  title: "Hemispheric progression of solar cycles in solar magnetic field data and its relation to the solar dynamo models"
+  authors:
+    - family-names: Inceoglu
+      given-names: Fadil
+    - family-names: Simoniello
+      given-names: Rosaria
+    - family-names: Knudsen
+      given-names: Mads Faurschou
+    - family-names: Karoff
+      given-names: Christoffer
+  journal: "Astronomy & Astrophysics"
+  volume: "601"
+  notes: "Article A51"
+  year: 2017
+  doi: 10.1051/0004-6361/201629871

@@ -1,0 +1,6 @@
+# Keep numerical inputs and outputs stable across platforms.
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.toml text eol=lf
+*.pdf binary
